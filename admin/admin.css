@@ -1,0 +1,7 @@
+body{
+	background: url(../images/bg.png);
+	color: white;
+}
+h1:before{
+	content: url(../icons/setting.png);
+}
